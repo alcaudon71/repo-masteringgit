@@ -9,6 +9,8 @@ public class PaoloMaster {
 		
 		System.out.println("Este es el primer comentario del curso");
 		
+		System.out.println("Este es el segundo comentario del curso");
+		
 	}
 
 }
