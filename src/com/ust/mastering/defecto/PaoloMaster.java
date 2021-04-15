@@ -19,6 +19,8 @@ public class PaoloMaster {
 		
 		System.out.println("Se va a incluir la receta de Guacamole");
 		
+		System.out.println("Operativa para el area auxiliar Stash");
+		
 	}
 
 }
