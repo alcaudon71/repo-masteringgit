@@ -7,6 +7,8 @@ public class PaoloMaster {
 
 		System.out.println("Comentarios del Master Paolo");
 		
+		System.out.println("Este es el primer comentario del curso");
+		
 	}
 
 }
