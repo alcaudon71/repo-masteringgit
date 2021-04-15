@@ -17,6 +17,8 @@ public class PaoloMaster {
 		
 		System.out.println("Experimentacion con los menus - parte II");
 		
+		System.out.println("Se va a incluir la receta de Guacamole");
+		
 	}
 
 }
