@@ -22,6 +22,8 @@ public class PaoloMaster {
 		System.out.println("Operativa para el area auxiliar Stash");
 		
 		System.out.println("Incluir tratamiento de Cebolla");
+
+		System.out.println("Incluir tratamiento del tomate");
 		
 	}
 
