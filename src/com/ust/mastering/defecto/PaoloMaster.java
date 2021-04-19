@@ -27,6 +27,8 @@ public class PaoloMaster {
 		
 		System.out.println("Probando el Rebase Interactivo");
 		
+		System.out.println("Fin de History - Fixing Mistakes");
+		
 	}
 
 }
