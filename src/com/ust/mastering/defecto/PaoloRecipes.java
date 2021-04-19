@@ -9,6 +9,8 @@ public class PaoloRecipes {
 		
 		System.out.println("Añadir receta de Ensalada Cesar");
 		
+		System.out.println("Añadir receta de Sopa Cebolla");
+		
 	}
 
 }
