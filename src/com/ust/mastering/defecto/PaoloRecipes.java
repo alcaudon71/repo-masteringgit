@@ -11,6 +11,10 @@ public class PaoloRecipes {
 		
 		System.out.println("Añadir receta de Sopa Cebolla");
 		
+		System.out.println("Añadir receta de Sopa Cebolla Fase II");
+		
+		System.out.println("Añadir receta de Sopa Cebolla Fase III");
+		
 	}
 
 }
