@@ -7,6 +7,8 @@ public class PaoloRecipes {
 		
 		System.out.println("Cuaderno de Recetas de Paolo");
 		
+		System.out.println("Añadir receta de Ensalada Cesar");
+		
 	}
 
 }
