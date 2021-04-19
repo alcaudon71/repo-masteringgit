@@ -11,6 +11,8 @@ public class GithubTratamientoClass {
 		
 		System.out.println("Modificacion de .java realizada desde GitHub");
 		
+		System.out.println("Bueno, si, otra Modificacion de .java realizada desde GitHub");
+		
 	}
 
 }
