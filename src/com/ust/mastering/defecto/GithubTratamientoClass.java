@@ -9,6 +9,8 @@ public class GithubTratamientoClass {
 		
 		System.out.println("Vamos a dejar de tracker el .class");
 		
+		System.out.println("Modificacion de .java realizada desde GitHub");
+		
 	}
 
 }
