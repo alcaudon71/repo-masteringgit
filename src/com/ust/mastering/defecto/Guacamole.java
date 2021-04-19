@@ -9,6 +9,8 @@ public class Guacamole {
 		
 		System.out.println("Modificacion de la receta de Guacamole");
 		
+		System.out.println("Necesito dejar de trackear este fichero");
+		
 	}
 
 }

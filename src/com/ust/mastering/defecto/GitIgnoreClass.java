@@ -7,6 +7,8 @@ public class GitIgnoreClass {
 
 		System.out.println("Necesito ignorar los ficheros Class del proyecto");
 		
+		System.out.println("Necesito dejar de trackear este fichero");
+		
 	}
 
 }
