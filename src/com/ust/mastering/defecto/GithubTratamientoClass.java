@@ -7,6 +7,8 @@ public class GithubTratamientoClass {
 
 		System.out.println("Tratamiento de Ignore Class en GitHub");
 		
+		System.out.println("Vamos a dejar de tracker el .class");
+		
 	}
 
 }
