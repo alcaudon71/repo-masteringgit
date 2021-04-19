@@ -7,6 +7,8 @@ public class SopaCebolla {
 
 		System.out.println("Indicaciones de la Sopa Cebolla");
 		
+		System.out.println("Especias para la Sopa Cebolla");
+		
 	}
 
 }
